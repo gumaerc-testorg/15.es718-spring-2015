@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 parent_title: Readings and Materials
+parent_type: CourseSection
 parent_uid: 1c929eda-b39b-b1e2-559b-e8a43815e91f
 title: Materials from Sangath
 uid: df7aeb97-76b0-ccd8-146e-3ffe6f70206d

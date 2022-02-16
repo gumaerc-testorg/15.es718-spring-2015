@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: da312d23-f4b4-05db-46b5-2c38fa76dfb5
 title: Goals for Student Learning
 uid: 1f2eac9c-947a-a5d6-ab44-14fb3ee9cd3c

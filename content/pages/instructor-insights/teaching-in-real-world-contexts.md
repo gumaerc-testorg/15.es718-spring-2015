@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: da312d23-f4b4-05db-46b5-2c38fa76dfb5
 title: Teaching in Real-world Contexts
 uid: c87e4d59-ef5e-63b2-60f6-695d695de21b

@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Deliverables
+parent_type: CourseSection
 parent_uid: 7c04b3d6-f139-cdca-6699-231a88d68d2d
 title: Brief Reviews
 uid: 73d9899a-4d25-0e78-d8b6-d61f04fa3995

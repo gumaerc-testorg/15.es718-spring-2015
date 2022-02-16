@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: da312d23-f4b4-05db-46b5-2c38fa76dfb5
 ---
@@ -56,20 +58,6 @@ This course fulfills the Sloan Innovation Period (SIP) elective requirement.
 ### Offered
 
 This course is offered every Spring semester; topics vary.
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![A tiered classroom with sliding chalkboards, a small table at the front for the instructor, and 2 ceiling-mounted projectors.]({{< resource_file c46b2a16-f8be-c6c4-fa14-3fa43e5653eb >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Seminar
-    
-    The course was taught in a medium-sized classroom (capacity of 80) with tiered seating, chalkboards, 2 video projectors, and video conferencing. Breakout rooms were also used.
-    
 
 Student Information
 -------------------

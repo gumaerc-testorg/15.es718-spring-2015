@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Activities
+parent_type: CourseSection
 parent_uid: 7827810c-aef5-34e2-5b7e-0d9ccf132707
 title: Day Three
 uid: eabcd69c-07cc-dd4d-6a97-1e6ca07528a8

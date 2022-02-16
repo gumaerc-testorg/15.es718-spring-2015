@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Activities
 uid: 7827810c-aef5-34e2-5b7e-0d9ccf132707
 ---
@@ -8,6 +10,6 @@ This workshop provided participants with a unique opportunity to take a plunge i
 
 Each day's plans, activities and assignments are outlined on the following pages:
 
-*   [Day One (Monday 16th March 2015)]({{< baseurl >}}/pages/activities/day-one)
-*   [Day Two (Tuesday 17th March 2015)]({{< baseurl >}}/pages/activities/day-two)
-*   [Day Three (Wednesday 18th March 2015)]({{< baseurl >}}/pages/activities/day-three)
+*   [Day One (Monday 16{{< sup "th" >}} March 2015)]({{< baseurl >}}/pages/activities/day-one)
+*   [Day Two (Tuesday 17{{< sup "th" >}} March 2015)]({{< baseurl >}}/pages/activities/day-two)
+*   [Day Three (Wednesday 18{{< sup "th" >}} March 2015)]({{< baseurl >}}/pages/activities/day-three)

@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 parent_title: Readings and Materials
+parent_type: CourseSection
 parent_uid: 1c929eda-b39b-b1e2-559b-e8a43815e91f
 title: Student Materials
 uid: a325aaf9-d3ab-71c9-529f-0ed4de810668

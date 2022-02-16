@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 parent_title: Readings and Materials
+parent_type: CourseSection
 parent_uid: 1c929eda-b39b-b1e2-559b-e8a43815e91f
 title: Wide-ranging Extra Resources
 uid: be45b6c5-4a36-e9d2-5c66-eab6b5145930

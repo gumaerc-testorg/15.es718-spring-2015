@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: da312d23-f4b4-05db-46b5-2c38fa76dfb5
 title: Workshop Logistics and Challenges
 uid: a3d82a0d-8945-2696-26a1-9c3772ada357
