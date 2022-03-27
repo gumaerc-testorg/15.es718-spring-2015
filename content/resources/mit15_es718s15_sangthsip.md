@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Deliverables
 parent_type: CourseSection
+parent_uid: 7c04b3d6-f139-cdca-6699-231a88d68d2d
 resourcetype: Document
 title: "SIP Course Response \u2013 Mapping the Innovation Landscape for Global Health\
   \ to Deliver Targeted Advice to an Organization"

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 7abb4806-91cb-89e3-a98e-c3650fc22bb1
 resourcetype: Document
 title: 'Day One: Global Health Briefing - 15.ES718 Spring 2015 (SIP)'
 uid: 1d30ee4c-7be3-ed6a-b58e-16e96e64c436

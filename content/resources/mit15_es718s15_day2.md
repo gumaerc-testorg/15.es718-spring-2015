@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 7abb4806-91cb-89e3-a98e-c3650fc22bb1
 resourcetype: Document
 title: Background on Healthcare in India - 15.ES718 Spring 2015 (SIP)
 uid: 8f153588-da0b-9b68-58ab-aa0df08766ea

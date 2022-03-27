@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
+parent_uid: da312d23-f4b4-05db-46b5-2c38fa76dfb5
 resourcetype: Image
 title: 12-approx.png
 uid: cbfa40b0-5a22-f6f9-e436-7744f3f23080
