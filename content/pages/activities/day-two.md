@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the plans, activities, and assignments for the
+  second day of the workshop.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Activities

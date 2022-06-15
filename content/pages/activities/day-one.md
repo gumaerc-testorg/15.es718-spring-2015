@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the plans, activities, and assignments for the
+  first day of the workshop.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Activities
@@ -12,8 +14,8 @@ uid: dc528499-f819-6cb3-0139-f81cc95083f0
 Plan for Day One
 ----------------
 
-*   Introduction to global health ([90-minute lecture (PDF - 2.9MB)]({{< baseurl >}}/resources/mit15_es718s15_day1))
-*   In–class study: Web and literature research on issues in child development, mental health, and chronic disease in India, via an assigned set of resources—readings, websites, podcasts, and videos. Study the resources in pairs, then prepare a [briefing]({{< baseurl >}}/pages/deliverables/brief-reviews). Think of this as a three-bullet review assignment: What's the particular resource about, in a nutshell? What is really great / interesting / valuable? What is missing? _[Read students' Brief Reviews]({{< baseurl >}}/pages/deliverables/brief-reviews)_
+*   Introduction to global health ({{% resource_link 1d30ee4c-7be3-ed6a-b58e-16e96e64c436 "90-minute lecture (PDF - 2.9MB)" %}})
+*   In–class study: Web and literature research on issues in child development, mental health, and chronic disease in India, via an assigned set of resources—readings, websites, podcasts, and videos. Study the resources in pairs, then prepare a {{% resource_link 73d9899a-4d25-0e78-d8b6-d61f04fa3995 "briefing" %}}. Think of this as a three-bullet review assignment: What's the particular resource about, in a nutshell? What is really great / interesting / valuable? What is missing? _{{% resource_link 73d9899a-4d25-0e78-d8b6-d61f04fa3995 "Read students' Brief Reviews" %}}_
 *   Rapid–fire peer briefing: Share with all classmates some key highlights from what you have learned from your assigned global health resource. 
 *   Form cluster groups. Choose one of the following topics: Managing and helping people with dementia; Maternal mental health; Child development and disabilities, especially autism; Addiction and interventions focusing on alcohol.
 
@@ -24,10 +26,10 @@ Assignments for Day Two
 
 Read the following:
 
-*   Patel, V. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Sundar: Mental Health for All" (PDF)](http://sangath.com/images/file/SUNDAR-Vikram.pdf).
+*   Patel, V. ["Sundar: Mental Health for All" (PDF)](http://sangath.com/images/file/SUNDAR-Vikram.pdf).
 *   Sangath for MIT intro, biosketches, key concepts.
 *   Sangath [Biennial Report (PDF)](http://www.sangath.com/images/file/Sangath%20Biennial%20Report%202012-14.pdf), review map to p. 30, pp. 34–43, 47–60, 64–65.
-*   Optional readings are also included [here]({{< baseurl >}}/pages/readings-and-materials).
+*   Optional readings are also included {{% resource_link 1c929eda-b39b-b1e2-559b-e8a43815e91f "here" %}}.
 
 Watch this TED talk:
 

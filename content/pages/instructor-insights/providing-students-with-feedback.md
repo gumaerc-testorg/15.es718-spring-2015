@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: In this section, the instructor discussed the types of feedback and logistics.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
@@ -17,7 +18,7 @@ Feedback Logistics
 
 Students signed up for slots with our expert panel to discuss their ideas, but they also had to sign up for slots to meet with me. They read the expert bios in order to decide how to construct their schedules. I gave some advice about trade-offs, and suggested who might be helpful to talk to. They drew numbers and signed up for meeting timeslots sequentially, so it was a fair system, more or less.
 
-![Sign with minimalist-drawn group of both young and old people.]({{< resource_file ac6a3330-808d-a3b5-c2ec-3541107f24f3 >}})  
+{{< resource ac6a3330-808d-a3b5-c2ec-3541107f24f3 >}}  
 
 Image courtesy of [Frederick Noronha](https://www.flickr.com/photos/fn-goa/2753217574) on Flickr. License: CC BY-NC.
 

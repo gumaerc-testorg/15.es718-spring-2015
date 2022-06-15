@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This section provides brief summaries of selected course readings courtesy
+  of anonymous MIT students. '
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Deliverables
@@ -165,7 +167,7 @@ Why are there not enough doctors? How are doctors being educated and paid?
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-UCL: ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Health and Health Care in India: National Opportunities, Global Impacts (PDF)](http://www.efpia.eu/uploads/UCL_summary.pdf)
+UCL: [Health and Health Care in India: National Opportunities, Global Impacts (PDF)](http://www.efpia.eu/uploads/UCL_summary.pdf)
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -309,7 +311,7 @@ _Takeaways_: Very interesting and jarring results—very low levels of training,
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Are We Reluctant to Talk about Cultural Determinants? (PDF)](http://medind.nic.in/iby/t11/i4/ibyt11i4p361.pdf)
+[Are We Reluctant to Talk about Cultural Determinants? (PDF)](http://medind.nic.in/iby/t11/i4/ibyt11i4p361.pdf)
 
 and
 

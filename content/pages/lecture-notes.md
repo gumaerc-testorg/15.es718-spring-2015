@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains the lecture notes for the course.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -7,7 +8,7 @@ title: Lecture Notes
 uid: 7abb4806-91cb-89e3-a98e-c3650fc22bb1
 ---
 
-Lectures occupied only part of each day during this workshop. See the [Activities]({{< baseurl >}}/pages/activities) section for more details.
+Lectures occupied only part of each day during this workshop. See the {{% resource_link 7827810c-aef5-34e2-5b7e-0d9ccf132707 "Activities" %}} section for more details.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -33,7 +34,7 @@ LECTIURE NOTES
 Day One
 {{< tdclose >}}
 {{< tdopen >}}
-[Global Health Briefing (PDF - 2.9MB)]({{< baseurl >}}/resources/mit15_es718s15_day1)
+{{% resource_link 1d30ee4c-7be3-ed6a-b58e-16e96e64c436 "Global Health Briefing (PDF - 2.9MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -45,7 +46,7 @@ Day One
 Day Two
 {{< tdclose >}}
 {{< tdopen >}}
-[Background on Healthcare in India (PDF - 1.3MB)]({{< baseurl >}}/resources/mit15_es718s15_day2)
+{{% resource_link 8f153588-da0b-9b68-58ab-aa0df08766ea "Background on Healthcare in India (PDF - 1.3MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -57,7 +58,7 @@ Day Two
 Day Three
 {{< tdclose >}}
 {{< tdopen >}}
-[Discussion and Wrap Up (PDF - 1.2MB)]({{< baseurl >}}/resources/mit15_es718s15_day3)
+{{% resource_link 72018fc9-bc3f-4b5e-bcad-6ebccf7fc733 "Discussion and Wrap Up (PDF - 1.2MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
