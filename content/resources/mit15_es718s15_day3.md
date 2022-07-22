@@ -6,6 +6,7 @@ file: /courses/15-es718-global-health-innovation-delivering-targeted-advice-to-a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Day  Three: Discussion and Wrap Up - 15.ES718 Spring 2015 (SIP)'
 uid: 72018fc9-bc3f-4b5e-bcad-6ebccf7fc733
 ---
 This resource contains the information regarding discussion and wrap up.
-

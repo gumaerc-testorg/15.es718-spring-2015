@@ -6,6 +6,7 @@ file: /courses/15-es718-global-health-innovation-delivering-targeted-advice-to-a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Background on Healthcare in India - 15.ES718 Spring 2015 (SIP)
 uid: 8f153588-da0b-9b68-58ab-aa0df08766ea
 ---
 This is a resource file that contains information regarding background on healthcare in india.
-

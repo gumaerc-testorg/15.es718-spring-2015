@@ -4,6 +4,7 @@ description: This file contains information regarding course response.
 file: /courses/15-es718-global-health-innovation-delivering-targeted-advice-to-an-organization-in-the-field-spring-2015/bcf25eed95af00295884e479652465ec_MIT15_ES718S15_SangthSIP.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Deliverables
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: "SIP Course Response \u2013 Mapping the Innovation Landscape for Global H
 uid: bcf25eed-95af-0029-5884-e479652465ec
 ---
 This file contains information regarding course response.
-

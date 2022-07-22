@@ -5,6 +5,7 @@ file: /courses/15-es718-global-health-innovation-delivering-targeted-advice-to-a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Day One: Global Health Briefing - 15.ES718 Spring 2015 (SIP)'
 uid: 1d30ee4c-7be3-ed6a-b58e-16e96e64c436
 ---
 This file contains information regarding global health briefing.
-

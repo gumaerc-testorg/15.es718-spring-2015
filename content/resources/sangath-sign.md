@@ -9,6 +9,7 @@ image_metadata:
     License: CC BY-NC. https://www.flickr.com/photos/fn-goa/2753217574'
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: 'Providing Students with Feedback '
 parent_type: CourseSection
