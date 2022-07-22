@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: This section contains materials about Sangath.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 parent_title: Readings and Materials
+parent_type: CourseSection
 parent_uid: 1c929eda-b39b-b1e2-559b-e8a43815e91f
 title: Materials About Sangath
 uid: 3ba9dd86-e458-c2e8-3fad-407e5b33c313
@@ -18,9 +23,9 @@ Chinai, Rupa. "[Indian Paradise Takes Novel Approach to Mental Health](http://ww
 
 "[Sangath Study Highlights Reasons for Alcohol Problems in Goa](http://timesofindia.indiatimes.com/city/goa/Sangath-study-highlights-reasons-for-alcohol-problems-in-Goa/articleshow/26818762.cms)." December 4, 2013. _Times of India_. (optional)
 
-Patel, V. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Sundar: Mental Health for All." (PDF)](http://sangath.com/images/file/SUNDAR-Vikram.pdf) _The British Journal of Psychiatry_ 21, no. 1 (2015).
+Patel, V. ["Sundar: Mental Health for All." (PDF)](http://sangath.com/images/file/SUNDAR-Vikram.pdf) _The British Journal of Psychiatry_ 21, no. 1 (2015).
 
-Sangath's![This resource may not render correctly in a screen reader.](/images/inacessible.gif) [Biennial Report: 2012-2014 (PDF - 11.0MB)](http://www.sangath.com/images/file/Sangath%20Biennial%20Report%202012-14.pdf).
+Sangath's [Biennial Report: 2012-2014 (PDF - 11.0MB)](http://www.sangath.com/images/file/Sangath%20Biennial%20Report%202012-14.pdf).
 
 Sangath for MIT intro, biosketches, key concepts
 

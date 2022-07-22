@@ -1,7 +1,12 @@
 ---
 content_type: page
+description: This sections covers logistics and the planning that needs to go into
+  a course such as this.
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: da312d23-f4b4-05db-46b5-2c38fa76dfb5
 title: Workshop Logistics and Challenges
 uid: a3d82a0d-8945-2696-26a1-9c3772ada357
@@ -17,7 +22,7 @@ I assembled hundreds of readings for this course, and to pare down to that numbe
 Connecting and Communicating with Experts
 -----------------------------------------
 
-Another challenge was to line up a bench of experts in the field, and then design the method of using them in the class. I have a good Rolodex from my eight years of [GlobalHealth Lab](/courses/15-s07-globalhealth-lab-spring-2013/). I selected the group, wrote biographies for all of them, and compiled these into a document, which was a big job. Then we had to get on their schedules and figure out the logistics of how they would talk with students.
+Another challenge was to line up a bench of experts in the field, and then design the method of using them in the class. I have a good Rolodex from my eight years of [GlobalHealth Lab](/courses/15-s07-globalhealth-lab-spring-2013). I selected the group, wrote biographies for all of them, and compiled these into a document, which was a big job. Then we had to get on their schedules and figure out the logistics of how they would talk with students.
 
 {{< quote "Students have no idea how much back-end work goes into [a course like this] …" " —Dr. Anjali Sastry" >}}
 

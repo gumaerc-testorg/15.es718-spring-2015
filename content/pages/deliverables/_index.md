@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides information on course deliverables.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Deliverables
 uid: 7c04b3d6-f139-cdca-6699-231a88d68d2d
 ---
@@ -13,7 +16,7 @@ On the first day, students completed web and literature research on issues in ch
 *   What is really great / interesting / valuable?
 *   What is missing? 
 
-[Read the students' Brief Reviews]({{< baseurl >}}/pages/deliverables/brief-reviews)
+{{% resource_link 73d9899a-4d25-0e78-d8b6-d61f04fa3995 "Read the students' Brief Reviews" %}}
 
 Materials for Sangath
 ---------------------

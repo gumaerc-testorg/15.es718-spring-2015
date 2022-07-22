@@ -1,7 +1,11 @@
 ---
 content_type: page
+description: In this section, Dr. Sastry discusses student learning goals.
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: da312d23-f4b4-05db-46b5-2c38fa76dfb5
 title: Goals for Student Learning
 uid: 1f2eac9c-947a-a5d6-ab44-14fb3ee9cd3c
@@ -53,12 +57,12 @@ Becoming Wise Consumers of Information
 
 Most of the time, students are provided with a course reader that has a pre-digested list of required readings. But by doing this, are we actually teaching them to be wise consumers of information and materials? I decided to try a radical experiment.
 
-There is so much information on the web and elsewhere, so many peer-reviewed journals, and great databases. I wanted students to be able to look at a wide breadth of materials quickly and emerge with some expertise. So, to add another skill-building component to the course, I gave them a massive amount of [reading materials]({{< baseurl >}}/pages/readings-and-materials) that they had to skim in order to get informed about specific topics, reading some in depth. All readings were in Dropbox folders, so students had a chance to browse through the library of resources as they went. My thinking was that they could then come back and look for additional resources later on.
+There is so much information on the web and elsewhere, so many peer-reviewed journals, and great databases. I wanted students to be able to look at a wide breadth of materials quickly and emerge with some expertise. So, to add another skill-building component to the course, I gave them a massive amount of {{% resource_link 1c929eda-b39b-b1e2-559b-e8a43815e91f "reading materials" %}} that they had to skim in order to get informed about specific topics, reading some in depth. All readings were in Dropbox folders, so students had a chance to browse through the library of resources as they went. My thinking was that they could then come back and look for additional resources later on.
 
 It’s easy to search the web and find random content, so the goal was for them to figure out how to discern what is a great source and what's not. I wanted them to ask themselves, how confident should I be that this is the answer? In this space there is a lot of material that can be valuable that isn’t peer-reviewed, such as white papers, industry reports, but some are definitely better than others.
 
 {{< quote "I wanted them to be able to look at a wide breadth of materials and emerge with some expertise." " —Dr. Anjali Sastry" >}}
 
-Most students didn't like doing this because I gave them access to some 200 articles. They had to pick a couple to read and describe to the class, then they wrote up [short blurbs]({{< baseurl >}}/pages/deliverables/brief-reviews) to advertise the readings to others. This was a distributed task assigned across nine different topic areas.
+Most students didn't like doing this because I gave them access to some 200 articles. They had to pick a couple to read and describe to the class, then they wrote up {{% resource_link 73d9899a-4d25-0e78-d8b6-d61f04fa3995 "short blurbs" %}} to advertise the readings to others. This was a distributed task assigned across nine different topic areas.
 
 I made them do the reading _live_ in class because I knew they wouldn’t do it as homework. I went around the room, numbered everyone, and had them spend thirty minutes reading two papers on a specific topic assigned by number. It’s tricky to do this and keep up the pace of a good classroom experience—it has to be framed in the right way so that it’s viewed as a good change of pace rather than something boring. I wish we taught more of this real-world model rather than providing a list of required readings.
