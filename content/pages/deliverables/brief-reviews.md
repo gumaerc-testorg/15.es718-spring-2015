@@ -44,11 +44,11 @@ OPEN QUESTIONS
 {{< tdopen >}}
 
 
-[OECD Health Statistics 2014 How does India Compare?](http://www.oecd.org/els/health-systems/Briefing-Note-INDIA-2014.pdf)
+{{% resource_link "a7d2c520-c374-4be3-bee3-236a59e2e321" "OECD Health Statistics 2014 How does India Compare?" %}}
 
 and
 
-[New Government Gears up for India's Health Challenges](http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(14)61016-3/abstract)
+{{% resource_link "7859b554-8c83-4d15-817d-b9d1799a8228" "New Government Gears up for India's Health Challenges" %}}
 
 
 {{< tdclose >}}
@@ -74,7 +74,7 @@ Missing info on non-government health care system.
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[IHME GBD Profile India 2010](http://www.healthdata.org/sites/default/files/files/country_profiles/GBD/ihme_gbd_country_report_india.pdf)
+{{% resource_link "7e6d0b54-5941-4661-874c-e425ae887995" "IHME GBD Profile India 2010" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -103,7 +103,7 @@ In comparing against other countries, it would be interesting to see correlation
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[What Does Slashing The Healthcare Budget Mean For India's Ailing Public Health System?](http://www.huffingtonpost.in/urvashi-prasad/what-does-slashing-the-he_b_6419976.html)"
+{{% resource_link "dce1ab40-cdc9-4bb5-a907-0e87d637d7e6" "What Does Slashing The Healthcare Budget Mean For India's Ailing Public Health System?" %}}"
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -133,11 +133,11 @@ I would like to know more about the whole system and where there are potential e
 {{< tdopen >}}
 
 
-IMS: [Understanding Healthcare Access](https://docshare04.docshare.tips/files/25555/255552955.pdf)
+IMS: {{% resource_link "09f06232-cda2-4e43-a434-64f4a5975654" "Understanding Healthcare Access" %}}
 
 and
 
-Forbes: [Five Things About India's Healthcare System](http://forbesindia.com/blog/health/5-things-to-know-about-the-indias-healthcare-system/)
+Forbes: {{% resource_link "636da536-6f30-40bb-a970-e87a8d0bb424" "Five Things About India's Healthcare System" %}}
 
 
 {{< tdclose >}}
@@ -167,7 +167,7 @@ Why are there not enough doctors? How are doctors being educated and paid?
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-UCL: [Health and Health Care in India: National Opportunities, Global Impacts (PDF)](http://www.efpia.eu/uploads/UCL_summary.pdf)
+UCL: {{% resource_link "f7dafa81-88c2-433e-8312-0fa44abfe5e2" "Health and Health Care in India: National Opportunities, Global Impacts (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -191,11 +191,11 @@ The article covers some stats and trends on key population health metrics (life 
 {{< tdopen >}}
 
 
-[Mental Illness, Poverty, Stigma (India Case Control Study)](http://bmjopen.bmj.com/content/5/2/e006355.full)
+{{% resource_link "35e8d049-17f2-4f5e-8a3f-5fe6abe32cda" "Mental Illness, Poverty, Stigma (India Case Control Study)" %}}
 
 and
 
-[Rethinking India's Psychiatric Care](http://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(14)00096-0)
+{{% resource_link "3065404e-854c-499f-b31e-980197069e15" "Rethinking India's Psychiatric Care" %}}
 
 
 {{< tdclose >}}
@@ -218,7 +218,7 @@ Other ways to weaken the stigma against mental illnesses. Because lack of employ
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[The Movement for Global Mental Health](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1000159)
+{{% resource_link "49618cfb-8405-4a78-b460-f1a519407b81" "The Movement for Global Mental Health" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 The Movement for Global Mental Health, which is a collective actions that aim to close the treatment gap for people living with mental disorders worldwide.
@@ -230,7 +230,7 @@ Why the movement is meaningful, how does this sharing of information is helping 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Novel Models for Delivering Mental Health Services and Reducing the Burdens of Mental Illness](http://cpx.sagepub.com/content/early/2013/01/23/2167702612463566)
+{{% resource_link "79ebe674-c01b-40f0-adef-faf1353af22c" "Novel Models for Delivering Mental Health Services and Reducing the Burdens of Mental Illness" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -248,7 +248,7 @@ The article does not delve into the relative effectiveness of informal mental he
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-['Someone like us:' Delivering Maternal Mental Health through Peers in Two South Asian Contexts](http://dx.doi.org/10.1016/j.jad.2014.07.017)
+{{% resource_link "f8c73415-327c-462b-ad2e-f3ab23a4d44b" "'Someone like us:' Delivering Maternal Mental Health through Peers in Two South Asian Contexts" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -266,7 +266,7 @@ There is no discussion about the quality of care or a review of potential uninte
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Improving the Scalability of Psychological Treatments in Developing Countries: An Evaluation of Peer-led Therapy Quality Assessment in Goa, India](http://www.sciencedirect.com/science/article/pii/S000579671400093X)
+{{% resource_link "035dbbdd-f412-4fd8-b56d-ddc2185c3d7b" "Improving the Scalability of Psychological Treatments in Developing Countries: An Evaluation of Peer-led Therapy Quality Assessment in Goa, India" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -311,11 +311,11 @@ _Takeaways_: Very interesting and jarring results—very low levels of training,
 {{< tdopen >}}
 
 
-[Are We Reluctant to Talk about Cultural Determinants? (PDF)](http://medind.nic.in/iby/t11/i4/ibyt11i4p361.pdf)
+{{% resource_link "206833ab-2d04-419b-bf85-861650a34f1b" "Are We Reluctant to Talk about Cultural Determinants? (PDF)" %}}
 
 and
 
-[Making the Invisible Visible](https://papers.ssrn.com/sol3/papers2.cfm?abstract_id=2769028)
+{{% resource_link "56e0e36a-f42d-4ec1-b47c-f0e329027c15" "Making the Invisible Visible" %}}
 
 
 {{< tdclose >}}
@@ -345,7 +345,7 @@ I also want to know more about the demographics in the slums, why people choose 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[The Health of India: A Future that Must be Devoid of Caste](http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(14)62261-3/)
+{{% resource_link "c6ddba66-9e92-434b-8269-2df88a934bb1" "The Health of India: A Future that Must be Devoid of Caste" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -369,7 +369,7 @@ There is no data showing the health outcomes of each caste within the society. I
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Kahol: [Mobile Messaging for Health](http://www.bmj.com/content/349/bmj.g6158)
+Kahol: {{% resource_link "f7116062-087f-42b9-8dbb-e17342d5c480" "Mobile Messaging for Health" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 This article looks at the use of mobile messaging to improve the adherence to HIV treatments. The study showed no significant difference compared to a control group. But emphasizes the need to focus on the design of the messaging and not yet draw conclusions about its effectiveness.
@@ -387,7 +387,7 @@ I wanted the article to include more info on the various types of messaging that
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-MIT Tech Review: [Data-driven Healthcare](https://www.technologyreview.com/2014/07/21/171988/a-closer-look-at-data-driven-health-care/)
+MIT Tech Review: {{% resource_link "6daa262d-03c7-40e7-be0c-7ce03da644bd" "Data-driven Healthcare" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
