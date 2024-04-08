@@ -11,21 +11,21 @@ title: Materials About Sangath
 uid: 3ba9dd86-e458-c2e8-3fad-407e5b33c313
 ---
 
-[Sangath's website](http://sangath.com/index.php)
+{{% resource_link "103904dc-faff-4749-8b1e-67bd20e202ae" "Sangath's website" %}}
 
-[Sangath's Facebook page](https://www.facebook.com/sangath)
+{{% resource_link "9d7f2903-7e2d-4956-9c4d-189738d02efb" "Sangath's Facebook page" %}}
 
-"[Sangath: Bridging the Gap](http://www.satyamevjayate.in/nurturing-mental-health/episode-5article.aspx?uid=s3e5-ar-a8)." _Satyamev Jayate_.
+"{{% resource_link "d44c9945-dd36-4efc-829c-cb498d2e978b" "Sangath: Bridging the Gap" %}}." _Satyamev Jayate_.
 
-[Profile: Sangath](http://mhinnovation.net/organisations/sangath). Mental Health Innovators website.
+{{% resource_link "d84034a8-224a-4a69-b631-2e2b6151a9e8" "Profile: Sangath" %}}. Mental Health Innovators website.
 
-Chinai, Rupa. "[Indian Paradise Takes Novel Approach to Mental Health](http://www.who.int/bulletin/volumes/85/8/07-020807/en/)." _Bulletin of the World Health Organization_ 85, no. 8 (August 2007): 576.
+Chinai, Rupa. "{{% resource_link "f81f6e31-07a7-42f7-9189-838ae23e82be" "Indian Paradise Takes Novel Approach to Mental Health" %}}." _Bulletin of the World Health Organization_ 85, no. 8 (August 2007): 576.
 
-"[Sangath Study Highlights Reasons for Alcohol Problems in Goa](http://timesofindia.indiatimes.com/city/goa/Sangath-study-highlights-reasons-for-alcohol-problems-in-Goa/articleshow/26818762.cms)." December 4, 2013. _Times of India_. (optional)
+"{{% resource_link "abd8783a-ea56-43a1-98c7-5befa04231b9" "Sangath Study Highlights Reasons for Alcohol Problems in Goa" %}}." December 4, 2013. _Times of India_. (optional)
 
-Patel, V. ["Sundar: Mental Health for All." (PDF)](http://sangath.com/images/file/SUNDAR-Vikram.pdf) _The British Journal of Psychiatry_ 21, no. 1 (2015).
+Patel, V. {{% resource_link "29111b6e-37e5-4924-a1d2-6c9676d82131" "\"Sundar: Mental Health for All.\" (PDF)" %}} _The British Journal of Psychiatry_ 21, no. 1 (2015).
 
-Sangath's [Biennial Report: 2012-2014 (PDF - 11.0MB)](http://www.sangath.com/images/file/Sangath%20Biennial%20Report%202012-14.pdf).
+Sangath's {{% resource_link "d8639ffd-2a9c-48ad-b95b-8b9c4f61543d" "Biennial Report: 2012-2014 (PDF - 11.0MB)" %}}.
 
 Sangath for MIT intro, biosketches, key concepts
 
@@ -34,7 +34,7 @@ Videos
 
 ### Vikram Patel: Mental Health for All
 
-Patel, Vikram. "[Mental Health for All by Involving All](http://www.ted.com/talks/vikram_patel_mental_health_for_all_by_involving_all?language=en)." _TEDGlobal_ 2012.
+Patel, Vikram. "{{% resource_link "97a3d57a-f6cc-499e-8ad9-9f8a5439391f" "Mental Health for All by Involving All" %}}." _TEDGlobal_ 2012.
 
 Vikram Patel helps bring better mental health care to low-resource communities—by teaching ordinary people to deliver basic psychiatric services.
 
@@ -46,19 +46,19 @@ From Sangath's mission statement: "At the heart of our vision lies the 'treatmen
 
 "This comprehensive work empowers healthcare workers in under-resourced and developing communities to build much-needed mental health care into all aspects of existing services." Amazon.com review of:
 
-  Eapen, Valsamma, Philip Graham, and Shoba Srinath. _Where There Is No Psychiatrist: A Mental Health Care Manual_. Royal College of Psychiatrists Publications, 2012. \[Preview with [Google Books](http://books.google.com/books?id=ewEmAgAAQBAJ&printsec=frontcover)\]
+  Eapen, Valsamma, Philip Graham, and Shoba Srinath. _Where There Is No Psychiatrist: A Mental Health Care Manual_. Royal College of Psychiatrists Publications, 2012. \[Preview with {{% resource_link "faa2e2d0-0d52-4691-b840-49c8ac0251f4" "Google Books" %}}\]
 
 About his talk: Vikram in his talk stresses on the need for mental health care for all by involving all by shifting tasks to the local people of communities rather than relying on specialists. He gives examples of his experiences in rural India & some shocking statistics related to mental health to convey this urgent message of democratising mental health.
 
 ### MacArthur Award Interview with Vikram Patel
 
-macfound. "[Vikram Patel of Sangath](https://www.youtube.com/watch?v=ugmUYVVlPqQ)." October 9, 2008. YouTube.
+macfound. "{{% resource_link "926d57fc-bee5-4d26-be9b-56cd822b1886" "Vikram Patel of Sangath" %}}." October 9, 2008. YouTube.
 
 Sangath, Goa's largest and most successful health-related NGO, was one of eight recipients of the MacArthur Award for Creative & Effective Institutions in 2008.
 
 ### Sangath's Premium Project
 
-SangathGoa. "[Clinical trial Sangath](https://www.youtube.com/watch?v=gJvxJzdVgpA)." August 12, 2014. YouTube.
+SangathGoa. "{{% resource_link "f9a3f017-ca8f-4c70-ab83-c024ffaf59d3" "Clinical trial Sangath" %}}." August 12, 2014. YouTube.
 
 On alcohol addiction program. Observe how a team of passionate, energetic lay health counsellors led by their supervisors work to treat depression and alcohol use disorders in a low-resource setting in India.
 

@@ -26,14 +26,14 @@ Assignments for Day Two
 
 Read the following:
 
-*   Patel, V. ["Sundar: Mental Health for All" (PDF)](http://sangath.com/images/file/SUNDAR-Vikram.pdf).
+*   Patel, V. {{% resource_link "29111b6e-37e5-4924-a1d2-6c9676d82131" "\"Sundar: Mental Health for All\" (PDF)" %}}.
 *   Sangath for MIT intro, biosketches, key concepts.
-*   Sangath [Biennial Report (PDF)](http://www.sangath.com/images/file/Sangath%20Biennial%20Report%202012-14.pdf), review map to p. 30, pp. 34–43, 47–60, 64–65.
+*   Sangath {{% resource_link "d8639ffd-2a9c-48ad-b95b-8b9c4f61543d" "Biennial Report (PDF)" %}}, review map to p. 30, pp. 34–43, 47–60, 64–65.
 *   Optional readings are also included {{% resource_link 1c929eda-b39b-b1e2-559b-e8a43815e91f "here" %}}.
 
 Watch this TED talk:
 
-*   Patel, V. "[Mental Health for All by Involving All](http://www.ted.com/talks/vikram_patel_mental_health_for_all_by_involving_all)." _TEDGlobal,_ 2012.
+*   Patel, V. "{{% resource_link "1987332a-3d30-42db-b10a-8fdbbfcdcf31" "Mental Health for All by Involving All" %}}." _TEDGlobal,_ 2012.
 
 Come to class with at least one question for Sangath mapped out in writing. We kick off at 8AM with a joint call to all seven experts assigned to work with us.
 
