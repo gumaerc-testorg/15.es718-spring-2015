@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding course response.
 file: /courses/15-es718-global-health-innovation-delivering-targeted-advice-to-an-organization-in-the-field-spring-2015/bcf25eed95af00295884e479652465ec_MIT15_ES718S15_SangthSIP.pdf
+file_size: 232055
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

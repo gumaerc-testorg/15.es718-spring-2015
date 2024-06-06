@@ -37,7 +37,7 @@ Learning about Global Health, Delivering Something of Value, and Recognizing the
 
 I wanted students to learn about global health, but I also was curious whether we could take a specifically expressed need from an organization and actually give them something of value in three days. I had the students interact with the organization every day, come up with ideas, and then get feedback in multiple rounds.  
   
-I helped moderate, contextualize, and fill in the blanks, which was a good role for me to play in this context. When you are doing something so intensive it’s helpful to see how you are learning from day to day—to realize, yesterday I didn’t know as much, but today I know more. In that way, I used the whole course set up as a vehicle for the students to learn that if you structure your work well, you can learn from every misstep. You can _{{% resource_link "0a8e749c-911c-4b8f-83e7-3554409d72cd" "Fail Better" %}}_.
+I helped moderate, contextualize, and fill in the blanks, which was a good role for me to play in this context. When you are doing something so intensive it’s helpful to see how you are learning from day to day—to realize, yesterday I didn’t know as much, but today I know more. In that way, I used the whole course set up as a vehicle for the students to learn that if you structure your work well, you can learn from every misstep. You can _[Fail Better](http://failbetternow.com)_.
 
 Appreciating the Potential of New Technologies, While Understanding Constraints
 -------------------------------------------------------------------------------
