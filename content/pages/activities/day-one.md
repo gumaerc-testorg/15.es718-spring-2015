@@ -24,14 +24,14 @@ Looking ahead: Class discussion on how to assess, appreciate, and design assista
 
 Read the following:
 
-- Patel, V. ["Sundar: Mental Health for All"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5619600/).
+- Patel, V. {{% resource_link "f14ce22d-51e6-41e2-9c6f-46d3250063dd" "\"Sundar: Mental Health for All\"" %}}.
 - Sangath for MIT intro, biosketches, key concepts.
-- Sangath [Biennial Report (PDF),](https://sangath.in/biennial-report-2010-2012/) review map to p. 30, pp. 34–43, 47–60, 64–65.
+- Sangath {{% resource_link "28ffdbb5-c96d-4db7-983e-7619b1103d5b" "Biennial Report (PDF)," %}} review map to p. 30, pp. 34–43, 47–60, 64–65.
 - Optional readings are also included {{% resource_link "1c929eda-b39b-b1e2-559b-e8a43815e91f" "here" %}}.
 
 Watch this TED talk:
 
-- Patel, V. "[Mental Health for All by Involving All](http://www.ted.com/talks/vikram_patel_mental_health_for_all_by_involving_all)." *TEDGlobal,* 2012.
+- Patel, V. "{{% resource_link "be660969-eaca-4600-aaf8-976cbe3d6e46" "Mental Health for All by Involving All" %}}." *TEDGlobal,* 2012.
 
 Come to class with at least one question for Sangath mapped out in writing. We kick off at 8AM with a joint call to all seven experts assigned to work with us.
 

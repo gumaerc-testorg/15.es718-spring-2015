@@ -32,10 +32,10 @@ Over the three days, you will learn about global health needs as context for stu
 
 A Sampling of Additional Information about the Selected Organization
 
-*   [About Sangath](http://mhinnovation.net/organisations/sangath)
-*   [On the Organization's Approach](http://www.ted.com/talks/vikram_patel_mental_health_for_all_by_involving_all)
-*   [Recent Paper (PDF)](http://sangath.com/images/file/SUNDAR-Vikram.pdf)
-*   [On Earlier Results](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2636390/)
+*   {{% resource_link "2edfdf55-52fd-4f26-801c-9171698b84b5" "About Sangath" %}}
+*   {{% resource_link "be660969-eaca-4600-aaf8-976cbe3d6e46" "On the Organization's Approach" %}}
+*   {{% resource_link "d58d70cc-cc29-4e1a-b06d-b9b221a96136" "Recent Paper (PDF)" %}}
+*   {{% resource_link "2c73a68a-35b9-4945-b1ce-777157e1686f" "On Earlier Results" %}}
 
 Logistics
 ---------

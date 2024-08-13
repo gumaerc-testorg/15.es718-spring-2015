@@ -31,7 +31,7 @@ OECD Health Statistics 2014 How does India Compare?
 
 and
 
-[New Government Gears up for India's Health Challenges](http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(14)61016-3/abstract)
+{{% resource_link "21288561-d3ff-405e-85f6-105fc58b7249" "New Government Gears up for India's Health Challenges" %}}
 
 {{< tdclose >}}{{< tdopen >}}
 
@@ -67,7 +67,7 @@ How is YLD measured? Is it just how long the patient is afflicted or is severity
 In comparing against other countries, it would be interesting to see correlation on other metrics like health spending per capita, literacy rates, etc.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-[What Does Slashing The Healthcare Budget Mean For India's Ailing Public Health System?](http://www.huffingtonpost.in/urvashi-prasad/what-does-slashing-the-he_b_6419976.html)"
+{{% resource_link "009e97ac-b905-4276-9577-9ada7a2a19d5" "What Does Slashing The Healthcare Budget Mean For India's Ailing Public Health System?" %}}"
 {{< tdclose >}}{{< tdopen >}}
 
 By cutting it's already low budget for healthcare, India will be doing itself a significant disservice, both in terms of health and economic outcomes.
@@ -84,11 +84,11 @@ I would like to know more about the whole system and where there are potential e
 **India's Health System**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 
-IMS: [Understanding Healthcare Access](https://docshare04.docshare.tips/files/25555/255552955.pdf)
+IMS: {{% resource_link "c37eca95-4399-4195-9f15-d445ed8e52c2" "Understanding Healthcare Access" %}}
 
 and
 
-Forbes: [Five Things About India's Healthcare System](http://forbesindia.com/blog/health/5-things-to-know-about-the-indias-healthcare-system/)
+Forbes: {{% resource_link "06c7e05c-a281-4b37-8217-9d260f978ae5" "Five Things About India's Healthcare System" %}}
 
 {{< tdclose >}}{{< tdopen >}}
 
@@ -118,11 +118,11 @@ The article covers some stats and trends on key population health metrics (life 
 **Mental Health Care in India and More Broadly**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 
-[Mental Illness, Poverty, Stigma (India Case Control Study)](http://bmjopen.bmj.com/content/5/2/e006355.full)
+{{% resource_link "3e0bcfca-82ab-4fcf-965b-9b94493f901b" "Mental Illness, Poverty, Stigma (India Case Control Study)" %}}
 
 and
 
-[Rethinking India's Psychiatric Care](http://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(14)00096-0)
+{{% resource_link "164f551d-7c10-4240-859f-f8af731ff78d" "Rethinking India's Psychiatric Care" %}}
 
 {{< tdclose >}}{{< tdopen >}}
 
@@ -136,13 +136,13 @@ Need for a sound mental health policy and access to mental health aid, as well a
 {{< tdclose >}}{{< tdopen >}}
 Other ways to weaken the stigma against mental illnesses. Because lack of employment aggravates mental illnesses, what can be done if economic development is not synced up? Are there solutions for areas that don’t have this growth available?
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-[The Movement for Global Mental Health](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1000159)
+{{% resource_link "c72df313-789a-4913-bbd1-27a8faa382f0" "The Movement for Global Mental Health" %}}
 {{< tdclose >}}{{< tdopen >}}
 The Movement for Global Mental Health, which is a collective actions that aim to close the treatment gap for people living with mental disorders worldwide.
 {{< tdclose >}}{{< tdopen >}}
 Why the movement is meaningful, how does this sharing of information is helping improving the global mental health, and what impact has it made so far.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-[Novel Models for Delivering Mental Health Services and Reducing the Burdens of Mental Illness](http://cpx.sagepub.com/content/early/2013/01/23/2167702612463566)
+{{% resource_link "c9b622ec-a96b-4a2c-960c-cb88a95772a7" "Novel Models for Delivering Mental Health Services and Reducing the Burdens of Mental Illness" %}}
 {{< tdclose >}}{{< tdopen >}}
 
 The resource is about the limitations of the current model for delivering mental healthcare. Since mental healthcare in America is typically one-on-one and administered by a masters or doctoral level professional this limits its ability to be exported internationally or be easily expanded.
@@ -152,7 +152,7 @@ I thought the potential tools for making mental healthcare more scalable were ve
 {{< tdclose >}}{{< tdopen >}}
 The article does not delve into the relative effectiveness of informal mental healthcare. Certainly strong familial and community support is key in treating mental health issues. Many of the strongest communal ties are in the developing world where villages may have strong tribal allegiances that help to bolster mental health.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-['Someone like us:' Delivering Maternal Mental Health through Peers in Two South Asian Contexts](http://dx.doi.org/10.1016/j.jad.2014.07.017)
+{{% resource_link "e54e35fa-0614-488f-8134-8c80c56282bc" "'Someone like us:' Delivering Maternal Mental Health through Peers in Two South Asian Contexts" %}}
 {{< tdclose >}}{{< tdopen >}}
 
 "Studying the potential for untrained peers to deliver mental health services for maternal depression in low resource settings."
@@ -162,7 +162,7 @@ Given the stigma attached to mental health I think it was interesting to see tha
 {{< tdclose >}}{{< tdopen >}}
 There is no discussion about the quality of care or a review of potential unintended side effects.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-[Improving the Scalability of Psychological Treatments in Developing Countries: An Evaluation of Peer-led Therapy Quality Assessment in Goa, India](http://www.sciencedirect.com/science/article/pii/S000579671400093X)
+{{% resource_link "f4a7d8c6-3d18-4026-9730-a4ff7ccc1f49" "Improving the Scalability of Psychological Treatments in Developing Countries: An Evaluation of Peer-led Therapy Quality Assessment in Goa, India" %}}
 {{< tdclose >}}{{< tdopen >}}
 
 Assessments of lay therapist quality ratings and of acceptability and feasibility of peer-led supervision compared to expert-led supervision, in Goa, India.
@@ -188,7 +188,7 @@ Are We Reluctant to Talk about Cultural Determinants?
 
 and
 
-[Making the Invisible Visible](https://papers.ssrn.com/sol3/papers2.cfm?abstract_id=2769028)
+{{% resource_link "d135d8fe-f624-4698-abd6-bc8ab923665e" "Making the Invisible Visible" %}}
 
 {{< tdclose >}}{{< tdopen >}}
 
@@ -207,7 +207,7 @@ I wish there were more examples to support the author's proposals.
 I also want to know more about the demographics in the slums, why people choose to live there as opposed to rural settings, and rates at which people are moving to rural areas.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-[The Health of India: A Future that Must be Devoid of Caste](http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(14)62261-3/)
+{{% resource_link "59e96a14-4fc0-493a-b5af-35d7eb576a6a" "The Health of India: A Future that Must be Devoid of Caste" %}}
 {{< tdclose >}}{{< tdopen >}}
 
 Although India has gained a new leader, Narendra Modi, it still must acknowledge values of caste that have been entrenched into the society and how they exacerbate health inequities.
@@ -219,7 +219,7 @@ There is no data showing the health outcomes of each caste within the society. I
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Technology, Mhealth**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Kahol: [Mobile Messaging for Health](http://www.bmj.com/content/349/bmj.g6158)
+Kahol: {{% resource_link "f52590d0-0b9d-4eb3-81c9-aa10bb30288a" "Mobile Messaging for Health" %}}
 {{< tdclose >}}{{< tdopen >}}
 This article looks at the use of mobile messaging to improve the adherence to HIV treatments. The study showed no significant difference compared to a control group. But emphasizes the need to focus on the design of the messaging and not yet draw conclusions about its effectiveness.
 {{< tdclose >}}{{< tdopen >}}
@@ -229,7 +229,7 @@ I thought the conclusion of the article was very interesting. It goes along with
 I wanted the article to include more info on the various types of messaging that have been tried and its effectiveness. Though this information may not exist yet.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-MIT Tech Review: [Data-driven Healthcare](https://www.technologyreview.com/2014/07/21/171988/a-closer-look-at-data-driven-health-care/)
+MIT Tech Review: {{% resource_link "f4161a73-fa4a-4180-8c0c-bdf5dd79f78c" "Data-driven Healthcare" %}}
 {{< tdclose >}}{{< tdopen >}}
 
 This article is about how we use the wealth of data being collected in healthcare today to improve outcomes. I was interested in how they touched on what appears to be 3 main topics:
