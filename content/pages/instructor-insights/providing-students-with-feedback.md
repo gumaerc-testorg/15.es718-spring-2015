@@ -20,7 +20,7 @@ Students signed up for slots with our expert panel to discuss their ideas, but t
 
 {{< resource ac6a3330-808d-a3b5-c2ec-3541107f24f3 >}}  
 
-Image courtesy of [Frederick Noronha](https://www.flickr.com/photos/fn-goa/2753217574) on Flickr. License: CC BY-NC.
+Image courtesy of {{% resource_link "8254f909-8c87-446c-8975-410f9aae90cb" "Frederick Noronha" %}} on Flickr. License: CC BY-NC.
 
 I met teams early on the second day of the workshop to give them feedback on their initial drafts, they had more time later that day, and additional times on the third day. Students were drafting materials, then discussing, then adding to the materials throughout. The only thing they were not able to do was go back to the expert, or find another expert. There was only one shot: pick your experts, and go talk to them.
 
