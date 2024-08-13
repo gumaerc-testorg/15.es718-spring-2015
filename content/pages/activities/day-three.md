@@ -22,6 +22,6 @@ Plan for Day Three
 *   Meet in the classroom from 11AM to 1:30PM.
 *   Class presentation: Students present to entire group, then panelists offer feedback and reflection to all (11:30AM to 12:30PM).
 
-_Every team presented their ideas and findings to the class. A distinguished guest, Deputy Director of the MIT Energy Initiative and Director of the Tata Center for Technology and Design,_ [_Robert Stoner_](https://tatacenter.mit.edu/team/robert-stoner/) _offered feedback and joined in a classwide discussion of the mini projects. To set context, a student presented a quicke selection of contextual materials about Sangath (see_ _{{% resource_link 72018fc9-bc3f-4b5e-bcad-6ebccf7fc733 "lecture notes (PDF)" %}}__)._
+_Every team presented their ideas and findings to the class. A distinguished guest, Deputy Director of the MIT Energy Initiative and Director of the Tata Center for Technology and Design,_ {{% resource_link "e7b03d97-da8e-4796-9269-0ff5def6b795" "_Robert Stoner_" %}} _offered feedback and joined in a classwide discussion of the mini projects. To set context, a student presented a quicke selection of contextual materials about Sangath (see_ _{{% resource_link 72018fc9-bc3f-4b5e-bcad-6ebccf7fc733 "lecture notes (PDF)" %}}__)._
 
 *   Working lunch: Debrief with team and class over an Indian meal. Also touch base with Anjali Sastry to reflect on what you have learned, and use the final 30 minutes set aside for each team to refine and update their presentation and send to NGO contact person (and Cc the instructor).
