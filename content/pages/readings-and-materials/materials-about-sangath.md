@@ -25,7 +25,7 @@ Chinai, Rupa. "{{% resource_link "7e4c65a5-f9a3-49c9-8852-63565cb5f76f" "Indian 
 
 Patel, V. {{% resource_link "f14ce22d-51e6-41e2-9c6f-46d3250063dd" "\"Sundar: Mental Health for All.\"" %}} *The British Journal of Psychiatry* 21, no. 1 (2015).
 
-Sangath's {{% resource_link "28ffdbb5-c96d-4db7-983e-7619b1103d5b" "Biennial Report: 2012-2014 (PDF - 11.0MB)" %}}.
+Sangath's [Biennial Report: 2012-2014 (PDF - 11.0MB)](https://www.sangath.in/annualreports).
 
 Sangath for MIT intro, biosketches, key concepts
 
