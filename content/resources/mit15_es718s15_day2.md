@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding background
   on healthcare in india.
-file: /ol-ocw-studio-app/courses/15-es718-global-health-innovation-delivering-targeted-advice-to-an-organization-in-the-field-spring-2015/8f153588da0b9b6858abaa0df08766ea_MIT15_ES718S15_Day2.pdf
+file: /courses/15-es718-global-health-innovation-delivering-targeted-advice-to-an-organization-in-the-field-spring-2015/8f153588da0b9b6858abaa0df08766ea_MIT15_ES718S15_Day2.pdf
 file_size: 1397882
 file_type: application/pdf
 learning_resource_types:
