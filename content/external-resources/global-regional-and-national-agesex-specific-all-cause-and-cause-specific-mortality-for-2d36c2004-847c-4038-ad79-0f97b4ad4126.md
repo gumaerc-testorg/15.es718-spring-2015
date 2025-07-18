@@ -3,7 +3,7 @@ content_type: external-resource
 external_url: http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(14)61682-2/
 has_external_license_warning: true
 license: https://en.wikipedia.org/wiki/All_rights_reserved
-status: broken
+status: unchecked
 title: "Global, Regional, and National Age\u2013sex Specific All-cause and Cause-specific\
   \ Mortality for 240 Causes of Death, 1990\u20132013: A Systematic Analysis for the\
   \ Global Burden of Disease"
