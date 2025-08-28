@@ -6,6 +6,6 @@ license: https://en.wikipedia.org/wiki/All_rights_reserved
 status: valid
 title: '"Morbidity among Infants in South India: A Longitudinal Study." (PDF)'
 uid: e0da71f2-7469-4f51-8615-06e3e7f06799
-url_status_code: 202
+url_status_code: 200
 wayback_url: ''
 ---
