@@ -26,7 +26,7 @@ Read the following:
 
 - Patel, V. {{% resource_link "f14ce22d-51e6-41e2-9c6f-46d3250063dd" "\"Sundar: Mental Health for All\"" %}}.
 - Sangath for MIT intro, biosketches, key concepts.
-- Sangath [Biennial Report (PDF)](https://www.sangath.in/annualreports), review map to p. 30, pp. 34–43, 47–60, 64–65.
+- Sangath {{% resource_link "41955bf4-6042-476d-a32c-fce4396c6cc9" "Biennial Report (PDF)" %}}, review map to p. 30, pp. 34–43, 47–60, 64–65.
 - Optional readings are also included {{% resource_link "1c929eda-b39b-b1e2-559b-e8a43815e91f" "here" %}}.
 
 Watch this TED talk:
